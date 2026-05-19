@@ -16,7 +16,7 @@ Este repositorio demuestra el dominio práctico de los siguientes conceptos:
 * **Diseño Modular:** Separación de responsabilidades utilizando clases de utilidad y una clase `Main` limpia para la ejecución.
 
 ## 🛠️ Tecnologías
-* **Lenguaje:** Java 
+* **Lenguaje:** Java
 * **Conceptos:** Programación Orientada a Objetos (OOP)
 
 ## 🚀 Cómo ejecutar el proyecto
