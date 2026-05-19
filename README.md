@@ -23,4 +23,4 @@ Este repositorio demuestra el dominio práctico de los siguientes conceptos:
 1. Asegúrate de tener el [JDK de Java](https://www.oracle.com/java/technologies/downloads/) instalado en tu sistema.
 2. Clona este repositorio:
    ```bash
-   git clone [PEGA_AQUÍ_LA_URL_DE_TU_REPOSITORIO]
+   git clone https://github.com/fabianyao-dev/Java-Zoo
