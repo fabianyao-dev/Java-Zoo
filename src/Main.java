@@ -10,11 +10,11 @@ public class Main {
         Scanner keyboard = new Scanner(System.in);
 
         // for loop continuation - 1 represents true
-        int continueOuterLoop = 1  ;
-        int continueInnerLoop = 1;
+        int continueOuterLoop ;
+        int continueInnerLoop;
 
         // for menu choice
-        int menuChoice = 1;
+        int menuChoice ;
 
         /** TODO 1: extend the class Animal to create a new
          *          land based animal named "Tiger" which extends
